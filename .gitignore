@@ -4,11 +4,26 @@
 .classpath
 .project
 .settings
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
 
 # Package Files #
 *.jar
 *.war
-*.ear
+
 
 *.iml
 *.idea
+=======
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
